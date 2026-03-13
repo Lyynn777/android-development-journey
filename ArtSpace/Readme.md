@@ -34,5 +34,5 @@ Through this project I learned:
 ---
 
 ### Screenshot
-![ArtSpace App](Screenshots/artspace.jpg)
+![ArtSpace App](https://raw.githubusercontent.com/Lyynn777/android-development-journey/main/Screenshots/artspace.jpg)
 
