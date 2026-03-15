@@ -18,8 +18,7 @@ During this learning process, I built several small applications and practiced U
 2. Tip Calculator
 3. Art Gallery
 4. Lemonade App
-5. Superheroes App
-6. RSVP App
+5. RSVP App
 
 These apps helped me understand how UI components work in Jetpack Compose.
 
